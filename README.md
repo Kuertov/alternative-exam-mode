@@ -2,7 +2,7 @@
 ---
 ## :desktop_computer: Work Process
 
-- [x] Authorization/Registration
-- [ ]...
+- [ ] Authorization/Registration
+- [ ] ...
 
 ---
